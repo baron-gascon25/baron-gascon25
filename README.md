@@ -6,7 +6,7 @@
 
 ### Links
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bgascon/)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?logo=gmail&logoColor=white)](baronalvarezgascon25@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?logo=gmail&logoColor=white)](mailto:baronalvarezgascon25@gmail.com)
 ## Technical Skills
 ### Languages I use
 <p>
